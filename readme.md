@@ -7,3 +7,4 @@
 
 pip install -r requirements.txt
 ````
+![demo image](./screenshots/default.png)
